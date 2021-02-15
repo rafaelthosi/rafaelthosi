@@ -6,6 +6,7 @@
 - 🎁 19 Anos, nascido em Presidente Prudente - SP.
 - 🏠 Moro em Ourinhos - SP.
 - 🌱 No momento estudando JS e SAPUI5.
+- 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
 # Linguagens e tecnologias:
 -  JavaScript
