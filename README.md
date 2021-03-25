@@ -3,7 +3,7 @@
 # Quem sou eu?
 - 🏢 Trabalho na [L4E - Lab For Extensions](https://lab4e.com.br/) desde 12/2019.
 - ✏️ Estudo Análise e Desenvolvimento de Sistemas na [Fatec Ourinhos](https://www.fatecourinhos.edu.br/).
-- 🎁 19 Anos, nascido em Presidente Prudente - SP.
+- 🎁 20 Anos, nascido em Presidente Prudente - SP.
 - 🏠 Moro em Ourinhos - SP.
 - 🌱 No momento estudando JS e SAPUI5.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
