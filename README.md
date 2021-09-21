@@ -5,7 +5,7 @@
 - ✏️ Estudo Análise e Desenvolvimento de Sistemas na [Fatec Ourinhos](https://www.fatecourinhos.edu.br/).
 - 🎁 20 Anos, nascido em Presidente Prudente - SP.
 - 🏠 Moro em Ourinhos - SP.
-- 🌱 No momento estudando JS e SAPUI5.
+- 🌱 No momento estudando Node.js.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
 # Linguagens e tecnologias:
