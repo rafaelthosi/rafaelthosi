@@ -16,5 +16,5 @@
 -  CSS
 
 
-[![Rafael Thosi's github stats](https://github-readme-stats.vercel.app/api?username=rafaelthosi&show_icons=true&theme=gruvbox)](https://github.com/rafaelthosi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelthosi&show_icons=true&theme=gruvbox)](https://github.com/rafaelthosi/github-readme-stats)
+[![Rafael Thosi's github stats](https://github-readme-stats.vercel.app/api?username=rafaelthosi&show_icons=true&theme=ocean_dark)](https://github.com/rafaelthosi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelthosi&show_icons=true&theme=ocean_dark)](https://github.com/rafaelthosi/github-readme-stats)
