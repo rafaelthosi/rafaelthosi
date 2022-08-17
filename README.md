@@ -1,11 +1,11 @@
 ### Olá! 👋
 
 # Quem sou eu?
-- 🏢 Trabalho na [L4E - Lab For Extensions](https://lab4e.com.br/) desde 12/2019.
+- 🏢 Trabalho na Deloitte desde 08/2022.
 - ✏️ Estudo Análise e Desenvolvimento de Sistemas na [Fatec Ourinhos](https://www.fatecourinhos.edu.br/).
 - 🎁 21 Anos, nascido em Presidente Prudente - SP.
 - 🏠 Moro em Maringá - PR.
-- 🌱 No momento estudando Node.js e React.js.
+- 🌱 No momento estudando SAP CAP.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
 # Linguagens e tecnologias:
