@@ -3,9 +3,9 @@
 # Quem sou eu?
 - 🏢 Trabalho na Deloitte desde 08/2022.
 - ✏️ Estudo Análise e Desenvolvimento de Sistemas na [Fatec Ourinhos](https://www.fatecourinhos.edu.br/).
-- 🎁 21 Anos, nascido em Presidente Prudente - SP.
+- 🎁 22 Anos, nascido em Presidente Prudente - SP.
 - 🏠 Moro em Maringá - PR.
-- 🌱 No momento estudando SAP CAP.
+- 🌱 No momento estudando SAP HANA Cloud e Inglês.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
 # Linguagens e tecnologias:
@@ -13,6 +13,8 @@
 -  NodeJS
 -  SAPUI5
 -  Typescript
+-  SAP CAP
+-  SAP DMS
 
 # Certificados:
 - [Rocketseat: NodeJS com Typescript](https://app.rocketseat.com.br/certificates/329c9b49-7bc0-4876-96b0-ad211fc6fa2e)
