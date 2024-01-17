@@ -1,11 +1,11 @@
 ### Olá! 👋
 
 # Quem sou eu?
-- 🏢 Trabalho na Deloitte desde 08/2022.
+- 🏢 Trabalho na Stefanini desde 12/2023.
 - ✏️ Estudo Análise e Desenvolvimento de Sistemas na [Fatec Ourinhos](https://www.fatecourinhos.edu.br/).
 - 🎁 22 Anos, nascido em Presidente Prudente - SP.
 - 🏠 Moro em Maringá - PR.
-- 🌱 No momento estudando SAP HANA Cloud e Inglês.
+- 🌱 No momento estudando SAP CPI e Inglês.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
 # Linguagens e tecnologias:
@@ -15,6 +15,8 @@
 -  Typescript
 -  SAP CAP
 -  SAP DMS
+-  SAP Hana Cloud
+-  SAP BTP
 
 # Certificados:
 - [Rocketseat: NodeJS com Typescript](https://app.rocketseat.com.br/certificates/329c9b49-7bc0-4876-96b0-ad211fc6fa2e)
