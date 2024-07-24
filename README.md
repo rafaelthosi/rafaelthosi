@@ -2,9 +2,9 @@
 
 # Quem sou eu?
 - 🏢 Trabalho na Stefanini desde 12/2023.
-- ✏️ Estudo Análise e Desenvolvimento de Sistemas na [Fatec Ourinhos](https://www.fatecourinhos.edu.br/).
-- 🎁 22 Anos, nascido em Presidente Prudente - SP.
-- 🏠 Moro em Maringá - PR.
+- 🧑‍🎓 Formado em Análise e Desenvolvilmento de Sistemas pela Unicesumar
+- 🎁 23 Anos, nascido em Presidente Prudente - SP.
+- 🏠 Moro em Santa cruz do rio pardo - SP.
 - 🌱 No momento estudando SAP CPI e Inglês.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
