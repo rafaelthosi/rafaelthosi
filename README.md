@@ -1,11 +1,11 @@
 ### Olá! 👋
 
 # Quem sou eu?
-- 🏢 Trabalho na Stefanini desde 12/2023.
+- 🏢 Trabalho na TCS desde 10/2024.
 - 🧑‍🎓 Formado em Análise e Desenvolvilmento de Sistemas pela Unicesumar
-- 🎁 23 Anos, nascido em Presidente Prudente - SP.
-- 🏠 Moro em Santa cruz do rio pardo - SP.
-- 🌱 No momento estudando SAP CPI e Inglês.
+- 🎁 24 Anos, nascido em Presidente Prudente - SP.
+- 🏠 Moro em Ourinhos - SP.
+- 🌱 No momento estudando ABAP e Inglês.
 - 💬 [Linkedin](https://www.linkedin.com/in/rafaelthosi/)
 
 # Linguagens e tecnologias:
